@@ -3,13 +3,14 @@
   <groupId>re.notifica</groupId>
   <artifactId>notificare-common-lib-android</artifactId>
   <versioning>
-    <release>0.4.0</release>
+    <release>0.4.1</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
       <version>0.3.0</version>
       <version>0.4.0</version>
+      <version>0.4.1</version>
     </versions>
-    <lastUpdated>20160330104954</lastUpdated>
+    <lastUpdated>20160330114937</lastUpdated>
   </versioning>
 </metadata>
